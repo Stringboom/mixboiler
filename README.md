@@ -24,25 +24,19 @@
 Clone git repositry
 
 ```
-
 git clone https://github.com/Stringboom/mixboiler
-
 ```
 
 Download & install dependencies
 
 ```
-
 npm install
-
 ```
 
 ### Usage:
 
 ```
-
 npm run watch
-
 ```
 
 
